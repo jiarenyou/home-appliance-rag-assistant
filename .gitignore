@@ -1,0 +1,22 @@
+# 数据
+data/uploads/
+
+# 环境变量
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 日志
+*.log
+
+# 构建产物
+backend/build/
+frontend/dist/
+frontend/node_modules/
+
+# 操作系统
+.DS_Store
+Thumbs.db
